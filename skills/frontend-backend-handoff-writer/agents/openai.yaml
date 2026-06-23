@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Backend Handoff Writer"
+  short_description: "Write frontend-to-backend API handoff docs."
+  default_prompt: "Use $frontend-backend-handoff-writer to generate a backend API handoff document from current frontend changes."
