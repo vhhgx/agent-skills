@@ -1,4 +1,4 @@
-﻿# Agent Skills
+# Agent Skills
 
 本仓库维护一组面向 Codex/Agent 工作流的技能定义，当前包含 4 个 Zephyr 工程协作类 Skill。
 

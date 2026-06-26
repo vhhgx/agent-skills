@@ -1,4 +1,4 @@
-﻿interface:
+interface:
   display_name: "Zephyr Eng Doc Style"
   short_description: "Write and review dense Chinese engineering documents."
   default_prompt: "Use $zephyr-eng-doc-style to write or review a dense Chinese engineering document for human review and agent execution."

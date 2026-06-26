@@ -1,4 +1,4 @@
-﻿interface:
+interface:
   display_name: "Zephyr Repo Evidence First"
   short_description: "Verify repository evidence before answering, designing, reviewing, or editing."
   default_prompt: "Use $zephyr-repo-evidence-first to analyze current workspace code, configuration, call chains, tests, and similar implementations before drawing project conclusions."

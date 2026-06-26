@@ -1,4 +1,4 @@
-﻿# Markdown 使用规则
+# Markdown 使用规则
 
 ## 代码块
 
