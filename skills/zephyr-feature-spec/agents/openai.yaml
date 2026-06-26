@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Zephyr Feature Spec"
+  short_description: "Write evidence-based feature specs and implementation plans."
+  default_prompt: "Use $zephyr-feature-spec to generate an evidence-based feature specification and implementation plan from confirmed requirements and current workspace facts."

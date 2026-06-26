@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Zephyr FE BE Handoff"
+  short_description: "Write frontend-to-backend API handoff docs from current frontend changes."
+  default_prompt: "Use $zephyr-fe-be-handoff to generate a backend API handoff document from current frontend changes."

@@ -1,4 +1,0 @@
-interface:
-  display_name: "Engineering Doc Density Writer"
-  short_description: "Write dense engineering docs."
-  default_prompt: "Use $engineering-doc-density-writer to write a dense Chinese engineering document for human review and agent execution."
